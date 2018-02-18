@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-media",
-  "version": "5.0.2-dev",
+  "name": "cordova-plugin-media-quiply",
+  "version": "1.0.0",
   "description": "Cordova Media Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-media",
+    "id": "cordova-plugin-media-quiply",
     "platforms": [
       "android",
       "browser",
