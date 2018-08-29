@@ -21,8 +21,8 @@
 
 /*global Windows:true */
 
-var Media = require('cordova-plugin-media.Media');
-var MediaError = require('cordova-plugin-media.MediaError');
+var Media = require('cordova-plugin-media-quiply.Media');
+var MediaError = require('cordova-plugin-media-quiply.MediaError');
 
 var recordedFile;
 var tempFolderAppDataBasePath = 'ms-appdata:///temp/',
