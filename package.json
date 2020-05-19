@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-media-quiply",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cordova Media Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
